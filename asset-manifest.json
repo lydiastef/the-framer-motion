@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/the-framer-motion/static/css/main.26ffab70.css",
+    "main.js": "/the-framer-motion/static/js/main.713ec6a9.js",
+    "static/js/787.8180bf96.chunk.js": "/the-framer-motion/static/js/787.8180bf96.chunk.js",
+    "index.html": "/the-framer-motion/index.html",
+    "main.26ffab70.css.map": "/the-framer-motion/static/css/main.26ffab70.css.map",
+    "main.713ec6a9.js.map": "/the-framer-motion/static/js/main.713ec6a9.js.map",
+    "787.8180bf96.chunk.js.map": "/the-framer-motion/static/js/787.8180bf96.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ffab70.css",
+    "static/js/main.713ec6a9.js"
+  ]
+}
